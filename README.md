@@ -1,6 +1,6 @@
-# **Project  - whether or not it’s beneficial for Eniac to discount products.?**
+# **Project 2 - whether or not it’s beneficial for Eniac to discount products.?**
 
-Hello everyone, I would like to present my work for **${\color{green}Project 1}$**, where my team and I analyzed the data provided by Eniac. 
+Hello everyone, I would like to present my work for **${\color{green}Project 2}$**, where my team and I analyzed the data provided by Eniac. 
 
 Our task was to determine whether heavy discounting of products is beneficial for the company. To support our recommendation, we conducted thorough data research.
 
